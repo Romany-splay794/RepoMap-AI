@@ -1,0 +1,58 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+*.egg
+MANIFEST
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Build / dist ──────────────────────────────────────────────────────────────
+dist/
+build/
+
+# ── Testing ───────────────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+*.xml
+*.log
+
+# ── RepoMap local cache ───────────────────────────────────────────────────────
+.repomap/
+
+# ── IDE / editor ─────────────────────────────────────────────────────────────
+.vscode/settings.json
+.cursor/
+.claude/
+*.swp
+*.swo
+.idea/
+*.iml
+
+# ── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── npm / Node ────────────────────────────────────────────────────────────────
+node_modules/
+npm/.npmrc
+
+# ── Secrets / env ─────────────────────────────────────────────────────────────
+.env
+.env.*
+.envrc
+*.pem
+*.key
+*.p12
+credentials.json
+secrets.json
