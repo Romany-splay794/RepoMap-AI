@@ -1,1 +1,0 @@
-{"servers":{"repomap":{"type":"stdio","command":"repomap","args":["serve","--transport","stdio"]}}}
